@@ -12,3 +12,7 @@ Console.WriteLine("The only thing we have to fear is fear itself\" by Franklin D
 
 
 Console.WriteLine("My name is Meagan Enguerra");
+Console.WriteLine("I am 20 yearss old");
+Console.WriteLine("currently studying BSIT in PUPBC");
+
+
