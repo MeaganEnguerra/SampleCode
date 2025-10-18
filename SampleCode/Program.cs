@@ -9,3 +9,6 @@ Console.WriteLine("sample 4s");
 
 Console.WriteLine("The only thing we have to fear is fear itself\" by Franklin D. Roosevelt,");
 Console.WriteLine("The only thing we have to fear is fear itself\" by Franklin D. Roosevelt,");
+
+
+Console.WriteLine("My name is Meagan Enguerra");
