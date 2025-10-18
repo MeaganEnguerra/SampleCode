@@ -6,3 +6,6 @@ Console.WriteLine("sample 1");
 Console.WriteLine("sample 2");
 Console.WriteLine("sample 3");
 Console.WriteLine("sample 4s");
+
+Console.WriteLine("The only thing we have to fear is fear itself\" by Franklin D. Roosevelt,");
+Console.WriteLine("The only thing we have to fear is fear itself\" by Franklin D. Roosevelt,");
